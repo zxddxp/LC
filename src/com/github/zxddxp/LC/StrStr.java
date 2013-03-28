@@ -57,13 +57,6 @@ public class StrStr {
 			}
 		}
 		
-		for (int ii = 0; ii < m; ii++) {
-			for (int jj = 0; jj < m; jj++) {
-				System.out.print(dict[ii][jj] + " ");
-			}
-			System.out.println();
-		}
-
 		//scan the haystack
 		int k = 0;
 		while (k < (n-m+1)) {

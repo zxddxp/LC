@@ -6,6 +6,7 @@ public class Permute {
     public ArrayList<ArrayList<Integer>> permute(int[] num) {
         // Start typing your Java solution below
         // DO NOT write main() function
+        return null;
     }
 
 	/**

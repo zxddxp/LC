@@ -5,7 +5,7 @@ public class LongestConsecutive {
 	public int longestConsecutive(int[] num) {
         // Start typing your Java solution below
         // DO NOT write main() function
-        
+        return 0;
     }
 
 }
